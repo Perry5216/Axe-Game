@@ -1,3 +1,5 @@
-As ive not programmed in years i though i would do so but making simple games!
+As I've not programmed in years I thought I would do so but making simple games!
+
+An Screenshot of the finished product
 
 https://imgur.com/a/NvwsBbn
